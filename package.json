@@ -1,0 +1,18 @@
+{
+  "name": "demo-cli",
+  "version": "0.0.1",
+  "description": "this is a demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli"],
+  "homepage": "https://github.com/haidaisiganbei/demo-cli",
+  "bugs":{
+    "url":"https://github.com/haidaisiganbei/demo-cli/issues",
+    "email":"997037734@qq.com"
+  },
+
+  "author": "yj_lin",
+  "license": "MIT"
+}
